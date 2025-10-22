@@ -1,1 +1,1 @@
-teamsub2md
+팀원 2의 md
