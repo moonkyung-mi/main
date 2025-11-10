@@ -108,7 +108,26 @@ g<?xml version="1.0" encoding="UTF-8"?>
 	        <artifactId>jjwt-jackson</artifactId>
 	        <version>0.11.5</version>
 	    </dependency>
+
+	     <!--jwt 다시추가-->
+	    <dependency>
+	        <groupId>io.jsonwebtoken</groupId>
+	        <artifactId>jjwt-api</artifactId>
+	        <version>0.11.5</version>
+	    </dependency>
+	    <dependency>
+	        <groupId>io.jsonwebtoken</groupId>
+	        <artifactId>jjwt-impl</artifactId>
+	        <version>0.11.5</version>
+	    </dependency>
+	    <dependency>
+	        <groupId>io.jsonwebtoken</groupId>
+	        <artifactId>jjwt-jackson</artifactId>
+	        <version>0.11.5</version>
+	    </dependency>
+
 	    <!--모라니-->
+
 
 	    <!--jwt 다시 추가-->
 	    <dependency>
